@@ -1,4 +1,5 @@
 {
+    "folder_for_csv":"D:/python",
     "dataset": "dataset", 
     "name_csv_file": "annotation_dataset",
     "new_folder_for_data": "D:/new_folder_for_data",
